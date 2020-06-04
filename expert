@@ -73,16 +73,10 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1586793912~exp=9007200841534903~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=e0bc03c72519ea3a78fcca0b6e65c6d0141249192e283b4b0f06105616ff2bd1
+https://cdnjt25.useetv.com/joss/14/rtv/chunklist_w115095760_b684100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-logo="https://jakartafair.co.id/2019/4dm1njfk/assets/uploads/media-partner/210f321b2be4e0a819e0a2afc963b7.png" group-title="Indonesia",JAK TV
-https://livetvhooq.akamaized.net/7393cf95fc9644f59c57815f6d086522/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1586794325~exp=9007200841535316~acl=/7393cf95fc9644f59c57815f6d086522/*/profile_0/chunklist.m3u8*~hmac=1f40677b2d07c0a9f3b89bfa09c609709b3ca0bbaee446be404e35a3f1a53209
-
-#EXTINF:-1 tvg-logo="http://www.jawapos.tv/images/logo_jawapos.png" group-title="Indonesia",JAWA POS TV
-https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1586794282~exp=9007200841535273~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=8df14d14287fa2d38707f68b412492ce612bf15260c692c0230d3d8892f3f46f
-
-#EXTINF:-1 tvg-logo="http://www.jawapos.tv/images/logo_jawapos.png" group-title="Indonesia",JAWA POS TV
-https://livetvhooq.akamaized.net/22c46cbe1f2747d1b4766a75d8b06f19/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1586794386~exp=9007200841535377~acl=/22c46cbe1f2747d1b4766a75d8b06f19/*/profile_2/chunklist.m3u8*~hmac=08812043b89c4dfa109ff8015f46506138124fa55a718bde5a89fb6ec0dd06df
+https://cdnjt25.useetv.com/joss/14/jaktv/chunklist_w766055676_b684100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="Indonesia",DAAI TV
 https://t4-id-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
@@ -109,7 +103,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 http://202.80.222.130/000001/2/ch14041511560872104862/1003.m3u8?IASHttpSessionId=SLB242112019112109232830596595&ztecid=ch14041511560872104862&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch14041511560872104862&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMTAvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="LOCAL",Bali TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://cdnjt25.useetv.com/joss/14/balitv/chunklist_w1799548030_b684100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="Indonesia",DHAMMA TV
 https://media.maxindo.net.id/dhamma/dhamma.m3u8
