@@ -1,30 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://gtv.id/images2020/logo.png" group-title="Indonesia",GTV [TC][HD]720p
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="Indonesia",GTV [TC][HD]720p
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="http://gtv.id/images2020/logo.png" group-title="Indonesia",GTV [TC]540p
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="Indonesia",GTV [TC]540p
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="Indonesia",INDOSIAR
 https://cdnjt25.useetv.com/joss/15/indosiar/chunklist_w958610128_b894100_sleng_87965.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",MNC [TC][HD]720p
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png",MNC [TC][HD]720p
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",MNC [TC]540p
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png",MNC [TC]540p
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",MNC
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png",MNC
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png",RCTI [TC][HD]720p
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/svg/logo-RCTI.svg",RCTI [TC][HD]720p
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png",RCTI [TC]540p
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/svg/logo-RCTI.svg",RCTI [TC]540p
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png",RCTI
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/svg/logo-RCTI.svg",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV [HD]
