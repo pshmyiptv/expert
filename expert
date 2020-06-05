@@ -96,10 +96,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1651428904_b
 #EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1651428904_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Indonesia",TVRI Nasional [TC][HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional [TC][HD]
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TVRI.id.png" group-title="Indonesia",TVRI Nasional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional
 http://202.80.222.130/000001/2/ch14041511560872104862/1003.m3u8?IASHttpSessionId=SLB242112019112109232830596595&ztecid=ch14041511560872104862&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch14041511560872104862&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMTAvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="Indonesia",Bali TV
