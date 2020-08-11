@@ -150,32 +150,11 @@ http://tvku.live:8888/lombok/lombok123/811
 #EXTINF:0,AXN
 http://tvku.live:8888/lombok/lombok123/3631
 
-#EXTINF:0,HBO HITS
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
-
-#EXTINF:0,HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
-
-#EXTINF:0,HBO Family (2)
-http://203.153.218.28:9981/stream/channelid/1316004766
-
 #EXTINF:0,Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 
 #EXTINF:0,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
-#EXTINF:0,FOX
-http://203.153.218.28:9981/stream/channelid/1910872088
-
-#EXTINF:0,FOX FAMILY MOVIES
-http://203.153.218.28:9981/stream/channelid/1949182550
-
-#EXTINF:0,FOX MOVIES
-http://203.153.218.28:9981/stream/channelid/756717990
-
-#EXTINF:0,FOX ACTION MOVIES
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="OLAHRAGA",FOX Sport HD 1 USA
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
@@ -183,26 +162,14 @@ http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="OLAHRAGA",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:0,AXN
-http://203.153.218.28:9981/stream/channelid/882386103
+#EXTINF:0,Discovery Asia
+http://tvku.live:8888/lombok/lombok123/779
 
-#EXTINF:0,Asian Food CHANNEL
-http://203.153.218.28:9981/stream/channelid/1092664456
+#EXTINF:0,Nat Geo People
+http://tvku.live:8888/lombok/lombok123/455
 
-#EXTINF:0,Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-
-#EXTINF:0,Discovery Channel
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-
-#EXTINF:0,TLC
-http://203.153.218.28:9981/stream/channelid/391618553
-
-#EXTINF:0,Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-
-#EXTINF:0,Nickelodeon
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass%20%20
+#EXTINF:0,Nat Geo Wild
+http://tvku.live:8888/lombok/lombok123/97
 
 #EXTINF:0,Bein Sport Extra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
@@ -231,9 +198,6 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 #EXTINF:0, group-title="SPORT",ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:0, group-title="SPORT",FISHING NETWORK
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
 #EXTINF:0, group-title="SPORT",FLOW SPORT
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
@@ -257,9 +221,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 
 #EXTINF:0, group-title="MUSIC",ONE
 http://rtmp.one.by:1300
-
-#EXTINF:0, group-title="NEWS",BERITA SATU WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
 #EXTINF:0, group-title="NEWS",BLOOMBERG 2
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
