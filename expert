@@ -6,6 +6,9 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="Indonesia",GTV [TC]540p
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="Indonesia",GTV
+https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
+
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia",INDOSIAR
 https://cdnjt25.useetv.com/joss/15/indosiar/chunklist_w958610128_b894100_sleng_87965.m3u8
 
@@ -15,9 +18,6 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="Indonesia",MNC [TC]540p
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="Indonesia",MNC
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Indonesia",RCTI [TC][HD]720p
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
@@ -25,7 +25,7 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Indonesia",RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+https://dl.dropbox.com/s/vq7pfqpqhqo9p5n/rctisd.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV [HD]
 https://cdnjt25.useetv.com/joss/15/sctv/chunklist_w1121654952_b1344100_sleng_87965.m3u8
@@ -40,31 +40,25 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1421001020_b384000_
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1322171097_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia" group-title="Indonesia",ANTV
-https://cdnjt25.useetv.com/joss/15/antv/chunklist_w1883572553_b894100_sleng_87965.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227215/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET [HD]
-https://cdnjt25.useetv.com/joss/15/net/chunklist_w1117208912_b1344100_sleng_87965.m3u8
+https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV [TC][HD]
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+https://stream-05.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS6pdLhbFwgSClcUM_N7trlQ)/dm/3/x75p70w/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV [TC]
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w645905961_b1128000_sleng.m3u8
+https://stream-05.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS6pdLhbFwgSClcUM_N7trlQ)/dm/3/x75p70w/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227213/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INEWS [TC][HD]720p
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INEWS [TC][540p
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",KOMPAS TV
-https://cdnjt25.useetv.com/joss/15/kompastv/chunklist_w535674102_b894100_sleng_87965.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",KOMPAS TV
-https://cdngb196.useetv.com/joss/15/kompastv/chunklist_w2115026420_b894100_sleng.m3u8?enc=SmnGSV20FxdHhrjfQF6vkA&id=&exp=1595083745
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",KOMPAS TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
@@ -76,10 +70,10 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
-https://cdnjt25.useetv.com/joss/14/rtv/chunklist_w115095760_b684100_sleng_87965.m3u8
+https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://jakartafair.co.id/2019/4dm1njfk/assets/uploads/media-partner/210f321b2be4e0a819e0a2afc963b7.png" group-title="Indonesia",JAK TV
-https://cdnjt25.useetv.com/joss/14/jaktv/chunklist_w766055676_b684100_sleng_87965.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/JTV_%28Indonesian_TV_channel%29.png" group-title="Indonesia",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="Indonesia",DAAI TV
 https://t4-id-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
@@ -109,16 +103,19 @@ http://202.80.222.130/000001/2/ch14041511560872104862/1003.m3u8?IASHttpSessionId
 https://cdnjt25.useetv.com/joss/14/balitv/chunklist_w1799548030_b684100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="Indonesia",DHAMMA TV
-https://media.maxindo.net.id/dhamma/dhamma.m3u8
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8?id=99827177
 
-#EXTINF:0 group-title="Movies",CELESTIAL MOVIES ID 1
-http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+#EXTINF:0 group-title="Movies",CELESTIAL MOVIES ID 1 (TANPA VPN)
+http://tvku.live:8888/lombok/lombok123/5
 
 #EXTINF:0, group-title="Movies",CELESTIAL MOVIES ID 2
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
 #EXTINF:0, group-title="Movies",CELESTIAL MOVIES ID [SD]
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+
+#EXTINF:0 group-title="Movies",KIX (TANPA VPN)
+http://tvku.live:8888/lombok/lombok123/8
 
 #EXTINF:0 group-title="Movies",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
@@ -128,6 +125,9 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 
 #EXTINF:0 group-title="Movies",KIX [SD]
 http://lihattv.com/?play=43340
+
+#EXTINF:0 group-title="Movies",THRILL (TANPA VPN)
+http://tvku.live:8888/lombok/lombok123/4
 
 #EXTINF:0 group-title="Movies",THRILL
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
@@ -140,6 +140,15 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
 #EXTINF:0 group-title="Movies",Cinema World
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
+
+#EXTINF:0,BLUE ANT ENTERTAINMENT
+http://tvku.live:8888/lombok/lombok123/1506
+
+#EXTINF:0,BLUE ANT EXTREME
+http://tvku.live:8888/lombok/lombok123/811
+
+#EXTINF:0,AXN
+http://tvku.live:8888/lombok/lombok123/3631
 
 #EXTINF:0,HBO HITS
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
@@ -419,3 +428,9 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/c
 
 #EXTINF:0,SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+
+#EXTINF:0,TVN
+http://tvku.live:8888/lombok/lombok123/767
+
+#EXTINF:0,TVN MOVIES
+http://tvku.live:8888/lombok/lombok123/927
