@@ -156,6 +156,9 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:0,FIGHT SPORT
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 
+#EXTINF:0,HIT
+http://210.210.155.35/uq2663/h/h37/01.m3u8
+
 #EXTINF:0,BLUE ANT ENTERTAINMENT
 http://tvku.live:8888/lombok/lombok123/1506
 
@@ -170,6 +173,9 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 
 #EXTINF:0,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:0,Channel News Asia
+http://210.210.155.35/uq2663/h/h29/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="OLAHRAGA",FOX Sport HD 1 USA
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
@@ -315,13 +321,13 @@ https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
 #EXTINF:-1 tvg-id="NHK World Japan" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="www.eocdo.com",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hC8bRk.png" group-title="www.eocdo.com",NHK 华语視界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="NHK World Japan" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png" group-title="www.eocdo.com",NHK World Japan
+http://210.210.155.35/uq2663/h/h23/01.m3u8
 
-#EXTINF:0,NTV [HD]
+#EXTINF:0,GEM [HD]
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 
-#EXTINF:0,NTV [LOW SD]
+#EXTINF:0,GEM [LOW SD]
 http://210.210.155.35/uq2663/h/h19/21.m3u8
 
 #EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/11/kctv-korean-central-television.jpg" group-title="www.eocdo.com",North Korea TV 
