@@ -63,6 +63,9 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV [TC][HD]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV [HD]
+http://210.210.155.35/uq2663/h/h12/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE
 http://103.47.132.164/PLTV/88888888/224/3221227213/index.m3u8
 
@@ -123,28 +126,28 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(3473945a-c61b-
 #EXTINF:-1 tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="Indonesia",DHAMMA TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8?id=99827177
 
-#EXTINF:0, group-title="Movies",CELESTIAL MOVIES ID
+#EXTINF:0,CELESTIAL MOVIES ID
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 
-#EXTINF:0, group-title="Movies",CELESTIAL MOVIES ID [LOW SD]
+#EXTINF:0,CELESTIAL MOVIES ID [LOW SD]
 http://210.210.155.35/qwr9ew/s/s33/02.m3u8
 
-#EXTINF:0 group-title="Movies",KIX [HD]
+#EXTINF:0,KIX [HD]
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 
-#EXTINF:0 group-title="Movies",KIX [LOW SD]
+#EXTINF:0,KIX [LOW SD]
 http://210.210.155.35/uq2663/h/h07/02.m3u8
 
-#EXTINF:0 group-title="Movies",THRILL
+#EXTINF:0,THRILL
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:0 group-title="Movies", THRILL [LOW SD]
+#EXTINF:0,THRILL [LOW SD]
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 
-#EXTINF:0 group-title="Movies",Cinema World [HD]
+#EXTINF:0,Cinema World [HD]
 http://210.210.155.35/uq2663/h/h04/01.m3u8
 
-#EXTINF:0 group-title="Movies",Cinema World [LOW SD]
+#EXTINF:0,Cinema World [LOW SD]
 http://210.210.155.35/uq2663/h/h04/02.m3u8
 
 #EXTINF:0,CGTN DOCUMENTARY
@@ -189,64 +192,64 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 #EXTINF:0,VOA INDO
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
-#EXTINF:0, group-title="KIDS",DISNEY JUNIOR
+#EXTINF:0,,DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:0, group-title="KIDS",DISNEY JUNIOR
+#EXTINF:0,,DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
 
-#EXTINF:0, group-title="ENTERTAINMENT",DW TV ASIA
+#EXTINF:0,,DW TV ASIA
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
-#EXTINF:0, group-title="KNOWLEDGE",CGTN DOCUMENTARY
+#EXTINF:0,,CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:0, group-title="MOVIE",CLASSIC CHANNEL
+#EXTINF:0,CLASSIC CHANNEL
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 
-#EXTINF:0, group-title="SPORT",ATGV 1 SPORT
+#EXTINF:0,ATGV 1 SPORT
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
-#EXTINF:0, group-title="SPORT",ESPN 2
+#EXTINF:0,ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:0, group-title="SPORT",FLOW SPORT
+#EXTINF:0,FLOW SPORT
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-#EXTINF:0, group-title="SPORT",REAL MADRID TV
+#EXTINF:0,REAL MADRID TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:0, group-title="SPORT",REDBULL TV
+#EXTINF:0,REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:0, group-title="MUSIC",BOX HITS
+#EXTINF:0,BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:0, group-title="MUSIC",KARAOKE CHANNEL
+#EXTINF:0,KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
-#EXTINF:0, group-title="MUSIC",M2O TV
+#EXTINF:0,M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:0, group-title="MUSIC",MUSIC TOP
+#EXTINF:0,MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#EXTINF:0, group-title="MUSIC",ONE
+#EXTINF:0,ONE
 http://rtmp.one.by:1300
 
-#EXTINF:0, group-title="NEWS",BLOOMBERG 2
+#EXTINF:0,BLOOMBERG 2
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:0, group-title="NEWS",DW CHANNEL
+#EXTINF:0,DW CHANNEL
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
 
-#EXTINF:0, group-title="NEWS",FRANCE24
+#EXTINF:0,FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-#EXTINF:0, group-title="NEWS",JAKARTA GLOBE NEWS
+#EXTINF:0,JAKARTA GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-#EXTINF:0, group-title="NEWS",PALESTINE TODAY
+#EXTINF:0,PALESTINE TODAY
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
 #EXTINF:0,RTM SPORT
@@ -285,16 +288,16 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MALAYSIA",Astro Ria Backup
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 
-#EXTINF:-1, group-title="ASIA",Arirang South Korea
+#EXTINF:0,Arirang South Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1, group-title="ASIA",K+ [HD]
+#EXTINF:0,K+ [HD]
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1, group-title="ASIA",K+ [LOW SD]
+#EXTINF:0,K+ [LOW SD]
 http://210.210.155.35/uq2663/h/h08/02.m3u8
 
-#EXTINF:0, group-title="ASIA",TVIKIM
+#EXTINF:0,TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" tvg-name="THAI PBS HD"  group-title="THAILAND",THAI PBS HD
@@ -314,6 +317,12 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hC8bRk.png" group-title="www.eocdo.com",NHK 华语視界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
+#EXTINF:0,NTV [HD]
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+
+#EXTINF:0,NTV [LOW SD]
+http://210.210.155.35/uq2663/h/h19/21.m3u8
 
 #EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/11/kctv-korean-central-television.jpg" group-title="www.eocdo.com",North Korea TV 
 https://tv.nknews.org/tvhls/stream.m3u8
