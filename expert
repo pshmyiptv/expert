@@ -127,13 +127,13 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8?id=99827177
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 
 #EXTINF:0, group-title="Movies",CELESTIAL MOVIES ID [LOW SD]
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+http://210.210.155.35/qwr9ew/s/s33/02.m3u8
+
+#EXTINF:0 group-title="Movies",KIX [HD]
+http://210.210.155.35/uq2663/h/h07/01.m3u8
 
 #EXTINF:0 group-title="Movies",KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-
-#EXTINF:0 group-title="Movies",KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+http://210.210.155.35/uq2663/h/h07/02.m3u8
 
 #EXTINF:0 group-title="Movies",THRILL
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
@@ -146,6 +146,9 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
 #EXTINF:0 group-title="Movies",Cinema World
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
+
+#EXTINF:0,CGTN DOCUMENTARy
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 
 #EXTINF:0,BLUE ANT ENTERTAINMENT
 http://tvku.live:8888/lombok/lombok123/1506
