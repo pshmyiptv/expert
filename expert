@@ -186,7 +186,7 @@ http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?id=8",KIX [LOW SD]
 http://210.210.155.35/uq2663/h/h07/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?id=8",KIX  (USEETV HD)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?id=8",KIX  (USEETV SD)
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=kix 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png?id=8",THRILL
@@ -231,7 +231,7 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?id=8",AXN [LOW SD]
 http://210.210.155.35/uq2663/h/h141/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?id=8",AXN (USEETV HD)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?id=8",AXN (USEETV SD)
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=axn 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png?id=8",ANIMAX [HD]
@@ -273,13 +273,13 @@ https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=sgem
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png?id=8",Arirang (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=arirang
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png?id=8",TVN (USEETV HD) 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png?id=8",TVN (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=tvn
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png?id=8",TVN Movies (USEETV HD)  
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png?id=8",TVN Movies (USEETV SD)  
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=tvnmovies 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png?id=8",KBS World (USEETV HD) 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png?id=8",KBS World (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=kbsworld 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png?id=8",ABC Australia (USEETV SD) 
@@ -291,13 +291,13 @@ https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=chinesedrama
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png?id=8",Lifetime (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=lifetime 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?id=8",History (USEETV HD) 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?id=8",History (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=history 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?id=8",Waku Waku Japan (USEETV HD) 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?id=8",Waku Waku Japan (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=wakuwaku 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8",Warner (USEETV HD) 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8",Warner (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=warner 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?id=8",NHK World Japan (USEETV SD)  
@@ -312,7 +312,7 @@ https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=zbioskop
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?id=8",Bioskop Indonesia (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bioskopindonesia 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?id=8",Flik (USEETV HD) 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?id=8",Flik (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=flik 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png?id=8",Galaxy Premium (USEETV SD) 
@@ -324,7 +324,7 @@ https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=galaxy
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8",IMC (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=imc 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworldpremium_small.png?id=8",NHK World Premium (USEETV HD) 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworldpremium_small.png?id=8",NHK World Premium (USEETV SD) 
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=nhkpremium 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?id=8",CCTV4 (USEETV SD) 
@@ -339,7 +339,7 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:0,K+ [LOW SD]
 http://210.210.155.35/uq2663/h/h08/02.m3u8
 
-#EXTINF:0,K+ (USEETV HD)
+#EXTINF:0,K+ (USEETV SD)
 https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=kplus 
 
 #EXTINF:0,K-DRAMA
