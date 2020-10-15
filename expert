@@ -9,6 +9,9 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="Indonesia",GTV
 https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia",INDOSIAR (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia",INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
@@ -30,6 +33,9 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Indonesia",RCTI
 https://dl.dropbox.com/s/vq7pfqpqhqo9p5n/rctisd.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
@@ -42,6 +48,9 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1110356017_b744100_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",TRANS TV [TC][HD]480p
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1110356017_b544100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",TRANS TV (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",TRANS TV
 http://210.210.155.35:80/x6bnqe/s/s252/01.m3u8
 
@@ -51,8 +60,14 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1886258026_b744100_sl
 #EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",TRANS7 [TC][HD]480p
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1886258026_b544100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",TRANS7 (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",TRANS7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia" group-title="Indonesia",ANTV (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia" group-title="Indonesia",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
@@ -63,14 +78,23 @@ http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET [HD]
 https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV [TC][HD]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV [HD]
 http://210.210.155.35/uq2663/h/h12/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE
 http://rr2.dens.tv/s/s105/01.m3u8
@@ -81,8 +105,11 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INEWS [TC][540p
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",KOMPAS TV
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INEWS (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/inews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",KOMPAS TV (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="Indonesia",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
@@ -90,8 +117,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 #EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="Indonesia",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
-https://liveanevia.mncnow.id/live/eds/RTV/sa_hls/RTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
@@ -105,6 +132,9 @@ http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="Indonesia",DAAI TV
 https://t4-id-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="Indonesia",DAAI TV (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="Indonesia",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/01.m3u8
 
@@ -114,14 +144,23 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w563795103_b3840
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w563795103_b280000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia",CNN Indonesia (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/cnnindonesia/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="Indonesia",CNBC Indonesia [TC][HD]
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1651428904_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1651428904_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional
-http://202.80.222.130/000001/2/ch14041511560872104862/1003.m3u8?IASHttpSessionId=SLB242112019112109232830596595&ztecid=ch14041511560872104862&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch14041511560872104862&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMTAvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="Indonesia",CNBC Indonesia (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/cnbcindonesia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional (OXYGEN)
+http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional
 http://210.210.155.35/qwr9ew/s/s11/01.m3u8
@@ -132,71 +171,164 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(3473945a-c61b-
 #EXTINF:-1 tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="Indonesia",DHAMMA TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8?id=99827177
 
-#EXTINF:0,CELESTIAL MOVIES ID
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png?id=8",CELESTIAL MOVIES ID
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 
-#EXTINF:0,CELESTIAL MOVIES ID [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png?id=8",CELESTIAL MOVIES ID [LOW SD]
 http://210.210.155.35/qwr9ew/s/s33/02.m3u8
 
-#EXTINF:0,KIX [HD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png?id=8",CELESTIAL MOVIES ID (USEETV SD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=celestialmovie 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?id=8",KIX [HD]
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 
-#EXTINF:0,KIX [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?id=8",KIX [LOW SD]
 http://210.210.155.35/uq2663/h/h07/02.m3u8
 
-#EXTINF:0,THRILL
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?id=8",KIX  (USEETV HD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=kix 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png?id=8",THRILL
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:0,THRILL [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png?id=8",THRILL [LOW SD]
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 
-#EXTINF:0,CINEMA WORLD [HD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png?id=8",THRILL (USEETV SD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=thrill
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png?id=8",CINEMA WORLD [HD]
 http://210.210.155.35/uq2663/h/h04/01.m3u8
 
-#EXTINF:0,CINEMA WORLD [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png?id=8",CINEMA WORLD [LOW SD]
 http://210.210.155.35/uq2663/h/h04/02.m3u8
 
-#EXTINF:0,BLUE ANT ENTERTAINMENT [HD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png?id=8",CINEMA WORLD (USEETV SD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cinemaworld 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png?id=8",BLUE ANT ENTERTAINMENT [HD]
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 
-#EXTINF:0,BLUE ANT ENTERTAINMENT [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png?id=8",BLUE ANT ENTERTAINMENT [LOW SD]
 http://210.210.155.35/dr9445/h/h16/02.m3u8
 
-#EXTINF:0,BLUE ANT EXTREME [HD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png?id=8",BLUE ANT ENTERTAINMENT (USEETV SD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=blueant 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png?id=8",BLUE ANT EXTREME [HD]
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 
-#EXTINF:0,BLUE ANT EXTREME [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png?id=8",BLUE ANT EXTREME [LOW SD]
 http://210.210.155.35/dr9445/h/h15/02.m3u8
 
-#EXTINF:0,AXN [HD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png?id=8",BLUE ANT EXTREME (USEETV SD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=blueantextreme 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?id=8",AXN [HD]
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 
-#EXTINF:0,AXN [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?id=8",AXN [LOW SD]
 http://210.210.155.35/uq2663/h/h141/02.m3u8
 
-#EXTINF:0,ANIMAX [HD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?id=8",AXN (USEETV HD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=axn 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png?id=8",ANIMAX [HD]
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 
-#EXTINF:0,ANIMAX [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png?id=8",ANIMAX [LOW SD]
 http://210.210.155.35/dr9445/h/h144/02.m3u8
 
-#EXTINF:0,ANIPLUS [HD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png?id=8",ANIMAX (USEETV SD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=animax 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?id=8",ANIPLUS [HD]
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
-#EXTINF:0,ANIPLUS [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?id=8",ANIPLUS [LOW SD]
 http://210.210.155.35/dr9445/h/h02/02.m3u8
 
-#EXTINF:0,SONY ONE [HD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?id=8",ANIPLUS (USEETV SD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=aniplus 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png?id=8",SONY ONE [HD]
 http://210.210.155.35/uq2663/h/h143/01.m3u8
 
-#EXTINF:0,SONY ONE [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png?id=8",SONY ONE [LOW SD]
 http://210.210.155.35/uq2663/h/h143/02.m3u8
 
-#EXTINF:0,SONY GEM [HD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png?id=8",SONY ONE (USEETV SD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=sone 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?id=8",SONY GEM [HD]
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 
-#EXTINF:0,SONY GEM [LOW SD]
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?id=8",SONY GEM [LOW SD]
 http://210.210.155.35/uq2663/h/h19/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?id=8",SONY GEM (USEETV SD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=sgem
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png?id=8",Arirang (USEETV SD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=arirang
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png?id=8",TVN (USEETV HD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=tvn
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png?id=8",TVN Movies (USEETV HD)  
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=tvnmovies 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png?id=8",KBS World (USEETV HD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=kbsworld 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png?id=8",ABC Australia (USEETV SD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=abcaustralia
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?id=8",Chinese Drama (USEETV SD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=chinesedrama 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png?id=8",Lifetime (USEETV SD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=lifetime 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?id=8",History (USEETV HD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=history 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?id=8",Waku Waku Japan (USEETV HD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=wakuwaku 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?id=8",Warner (USEETV HD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=warner 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?id=8",NHK World Japan (USEETV SD)  
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=nhkworld 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?id=8",TV5Monde (USEETV SD)  
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=tv5monde 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?id=8",ZBioskop (USEETV SD)  
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=zbioskop 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?id=8",Bioskop Indonesia (USEETV SD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bioskopindonesia 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?id=8",Flik (USEETV HD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=flik 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png?id=8",Galaxy Premium (USEETV SD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=galaxypremium 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?id=8",Galaxy (USEETV SD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=galaxy 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8",IMC (USEETV SD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=imc 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworldpremium_small.png?id=8",NHK World Premium (USEETV HD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=nhkpremium 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?id=8",CCTV4 (USEETV SD) 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cctv4 
 
 #EXTINF:0,FIGHT SPORT
 http://210.210.155.35/uq2663/h/h05/01.m3u8
@@ -206,6 +338,9 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 
 #EXTINF:0,K+ [LOW SD]
 http://210.210.155.35/uq2663/h/h08/02.m3u8
+
+#EXTINF:0,K+ (USEETV HD)
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=kplus 
 
 #EXTINF:0,K-DRAMA
 http://210.210.155.35/qwr9ew/s/s42/01.m3u8
