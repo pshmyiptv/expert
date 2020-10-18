@@ -384,24 +384,24 @@ http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=45d0b492efc9c421c3
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?id=8",CCTV4 (USEETV SD) 
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=5113086ff6643f95fd81062ba01ba41efad6f4e614a212e80c67249a666d2b09
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?id=8",BEIN_SPORT_1 (USEETV SD)
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=efd691fcfb139570442e93d2d3af3ce6fad6f4e614a212e80c67249a666d2b09
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?id=8",USEESPORT1 (USEETV SD)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=4c19ad20295739012508db9f189d9da4fad6f4e614a212e80c67249a666d2b09
 				
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?id=8",BEIN_SPORT_2 (USEETV SD)
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=8492a79c13ef3e4c30f1872d75fd8e81fad6f4e614a212e80c67249a666d2b09	
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?id=8",USEESPORT2 (USEETV SD)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=411383497a7771cce71f615a99268a43fad6f4e614a212e80c67249a666d2b09
 	
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8",CHAMPION_TV_1 (USEETV SD)
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=08b00412925ca3fc9f19ad97fc52af0efad6f4e614a212e80c67249a666d2b09
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg",CHAMPION TV 1 (USEETV SD)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=f72f78a365657d56853b6867fb37dc3c92a0b898598ef9416ca40dd3efbbfae1
 		
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8",CHAMPION_TV_2 (USEETV SD)
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=7f1e60a81b19143d67fa4a3d71c9e6c7fad6f4e614a212e80c67249a666d2b09
-			
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zVTqzS-Vwnp_mhhekbD0xVUdBdI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg",CHAMPION TV 2 (USEETV SD)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=1458c6647dbf7cca56dff7bfe0576ebb92a0b898598ef9416ca40dd3efbbfae1
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZZ3eJa1vaev71aUWQo9nM7siO2I=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-952d29.jpg",CHAMPION TV 3 (USEETV SD)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=af4f00ca48321fb026865c5a1772dafd92a0b898598ef9416ca40dd3efbbfae1
+		
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?id=8",FOX_SPORT_1 (USEETV SD)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=4938af744b253b57bcf6f33d3dbf2f38fad6f4e614a212e80c67249a666d2b09
-				
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?id=8",FOX_SPORT_2 (USEETV SD)
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=9ca5d4a6246ad7c88e8663da026f1cbdfad6f4e614a212e80c67249a666d2b09
-				
+								
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?id=8",FOX_SPORT_3 (USEETV SD)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=c372de9c52ad3489a20563ceca0ffb48fad6f4e614a212e80c67249a666d2b09
 		
