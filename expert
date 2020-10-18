@@ -246,14 +246,8 @@ https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hbosignatureFHD
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png",HBO SIGNATURE SD
 https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hbosignature
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO HITS FHD	
-https://riyancoday.xyz/get-link.m3u8?shinta=cantik&cdy=hbohitsFHD
-
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO HITS SD	
 https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hbohits
-
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",HBO FAMILY FHD
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hbofamilyFHD
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",HBO FAMILY SD	
 https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hbofamily
@@ -365,18 +359,6 @@ http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=e2cd35de2c3b223c22
 
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_dunialain_small.png?id=8",DUNIA LAIN (USEETV SD) 
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=6fbb752d15ccfea071c0d563cf68e997fad6f4e614a212e80c67249a666d2b09
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?id=8",Flik (USEETV SD) 
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=974a977ed8c481816eab7f4fdf6cfc2dfad6f4e614a212e80c67249a666d2b09
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png?id=8",Galaxy Premium (USEETV SD) 
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=e91c148e4a522735af840d330b2c4c9efad6f4e614a212e80c67249a666d2b09 
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?id=8",Galaxy (USEETV SD) 
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=e03239b27e34a5f7f3bde739459dd537fad6f4e614a212e80c67249a666d2b09
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8",IMC (USEETV SD) 
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=601dd4047a1b7be8c6d9896b80447d5cfad6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworldpremium_small.png?id=8",NHK World Premium (USEETV SD) 
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=45d0b492efc9c421c3c37b7325f12267fad6f4e614a212e80c67249a666d2b09 
