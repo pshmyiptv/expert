@@ -234,35 +234,24 @@ http://210.210.155.35/uq2663/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?id=8",AXN (USEETV SD)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=625fa0bfdb706073072b1d52884d47c6fad6f4e614a212e80c67249a666d2b09
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",HBO FHD
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hboFHD
-
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",HBO SD
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hbo
-
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png",HBO SIGNATURE FHD
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hbosignatureFHD
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=cfcd208495d565ef66e7dff9f98764da44890484637ffd90be0ca42b1965ecbe
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png",HBO SIGNATURE SD
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hbosignature
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=c4ca4238a0b923820dcc509a6f75849b44890484637ffd90be0ca42b1965ecbe
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO HITS SD	
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hbohits
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=c81e728d9d4c2f636f067f89cc14862c44890484637ffd90be0ca42b1965ecbe
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",HBO FAMILY SD	
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=hbofamily
-
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png",CINEMAX FHD
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=cinemaxFHD
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf344890484637ffd90be0ca42b1965ecbe
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png",CINEMAX SD	
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=cinemax
-
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png",RED BY HBO FHD	
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=redFHD
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=a87ff679a2f3e71d9181a67b7542122c44890484637ffd90be0ca42b1965ecbe
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png",RED BY HBO SD	
-https://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=red
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=e4da3b7fbbce2345d7772b0674a318d544890484637ffd90be0ca42b1965ecbe
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png?id=8",ANIMAX [HD]
 http://210.210.155.35/dr9445/h/h144/01.m3u8
