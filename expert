@@ -100,12 +100,12 @@ http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=40fa73c9d0083043c6
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV [TC][HD]
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=f1c1592588411002af340cbaedd6fc3392a0b898598ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV
 http://210.210.155.35/uq2663/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE (OXYGEN)
