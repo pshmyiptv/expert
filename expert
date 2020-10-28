@@ -255,31 +255,43 @@ http://210.210.155.35/uq2663/h/h141/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?id=8",AXN (USEETV)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=625fa0bfdb706073072b1d52884d47c6109ac3041ec25ad69ff136c043aa0512
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",HBO
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",ID:HBO
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=cfcd208495d565ef66e7dff9f98764da44890484637ffd90be0ca42b1965ecbe
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",HBO
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",SUB & DUB ID:HBO
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=cfcd208495d565ef66e7dff9f98764dac75b93d6a0eea707a716c7190bcc1a67
+
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png",HBO (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png",HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png",ID:HBO SIGNATURE
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=c4ca4238a0b923820dcc509a6f75849b44890484637ffd90be0ca42b1965ecbe
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",HBO HITS	
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png",SUB & DUB ID:HBO SIGNATURE
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=c4ca4238a0b923820dcc509a6f75849bc75b93d6a0eea707a716c7190bcc1a67
+
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",ID:HBO HITS	
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=c81e728d9d4c2f636f067f89cc14862c44890484637ffd90be0ca42b1965ecbe
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",HBO FAMILY	
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png",SUB & DUB ID:HBO HITS	
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=c81e728d9d4c2f636f067f89cc14862cc75b93d6a0eea707a716c7190bcc1a67
+
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",ID:HBO FAMILY	
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf344890484637ffd90be0ca42b1965ecbe
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png",CINEMAX	
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",SUB & DUB ID:HBO FAMILY	
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf3c75b93d6a0eea707a716c7190bcc1a67
+
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png",ID:CINEMAX	
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=a87ff679a2f3e71d9181a67b7542122c44890484637ffd90be0ca42b1965ecbe
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png",RED BY HBO	
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=e4da3b7fbbce2345d7772b0674a318d544890484637ffd90be0ca42b1965ecbe
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png",SUB & DUB ID:CINEMAX	
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=a87ff679a2f3e71d9181a67b7542122cc75b93d6a0eea707a716c7190bcc1a67
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png",RED BY HBO
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png",SUB & DUB ID:RED BY HBO
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=e4da3b7fbbce2345d7772b0674a318d5c75b93d6a0eea707a716c7190bcc1a67
 
-#EXTINF:-1 tvg-logo="'http://riyancoday.xyz/coday.jpg",FOX MOVIE
+#EXTINF:-1 tvg-logo="'http://riyancoday.xyz/coday.jpg",FOX MOVIE (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/foxmovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png?id=8",ANIMAX [HD]
