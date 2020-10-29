@@ -177,9 +177,6 @@ http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=7eabe3a1649ffa2b3f
 #EXTINF:-1 tvg-logo="http://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="Indonesia",ELSHINTA TV		
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="Indonesia",DAAI TV
-https://t4-id-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="Indonesia",DAAI TV (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
 
