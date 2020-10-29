@@ -9,11 +9,17 @@ https://dicdnali.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="Indonesia",GTV
 https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="Indonesia",GTV (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=e07413354875be01a996dc560274708e92a0b898598ef9416ca40dd3efbbfae1
+
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia",INDOSIAR (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia",INDOSIAR (USEETV)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=000e4be121ffecc35dac4fbafc901553109ac3041ec25ad69ff136c043aa0512
+
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia",INDOSIAR (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=eae27d77ca20db309e056e3d2dcd7d6992a0b898598ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia",INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
@@ -27,6 +33,9 @@ https://dicdnali.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="Indonesia",MNC [TC]540p
 https://dicdnali.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="Indonesia",MNC (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=22fb0cee7e1f3bde58293de74387141792a0b898598ef9416ca40dd3efbbfae1
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Indonesia",RCTI [TC][HD]720p
 https://dicdnali.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
@@ -36,11 +45,17 @@ https://dicdnali.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Indonesia",RCTI
 https://dl.dropbox.com/s/vq7pfqpqhqo9p5n/rctisd.m3u8?dl=0
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Indonesia",RCTI (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=84117275be999ff55a987b9381e01f9692a0b898598ef9416ca40dd3efbbfae1
+
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV (USEETV)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=70b442faf7651ffb07f62cf81fb677b2109ac3041ec25ad69ff136c043aa0512
+
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=274ad4786c3abca69fa097b85867d9a492a0b898598ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
@@ -60,6 +75,9 @@ http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",TRANS TV (USEETV)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=3cbcacce0280033198f2da98a2b4e753109ac3041ec25ad69ff136c043aa0512
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",TRANS TV (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=6c29793a140a811d0c45ce03c1c93a2892a0b898598ef9416ca40dd3efbbfae1
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",TRANS TV
 http://210.210.155.35:80/x6bnqe/s/s252/01.m3u8
 
@@ -75,6 +93,9 @@ http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",TRANS7 (USEETV)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=8958551386d9326cfaab8bc165346bfb109ac3041ec25ad69ff136c043aa0512
 
+#EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",TRANS7 (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=e995f98d56967d946471af29d7bf99f192a0b898598ef9416ca40dd3efbbfae1
+
 #EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",TRANS7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
@@ -87,23 +108,23 @@ http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia" group-title="Indonesia",ANTV [LOW SD]
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET [HD]
-https://dl.dropbox.com/sh/ufeeyetsmgdp748/AACi28jNOAEDeJfWTVL2HchAa/Net%20TV.m3u8?dl=0
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET (USEETV)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=40fa73c9d0083043c6576dd2b40511e4109ac3041ec25ad69ff136c043aa0512
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=4b0a59ddf11c58e7446c9df0da541a8492a0b898598ef9416ca40dd3efbbfae1
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV [TC][HD]
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=f1c1592588411002af340cbaedd6fc3392a0b898598ef9416ca40dd3efbbfae1
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=f1c1592588411002af340cbaedd6fc3392a0b898598ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV
 http://210.210.155.35/uq2663/h/h12/01.m3u8
@@ -123,11 +144,17 @@ https://dicdnali.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INEWS (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/inews/index.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INEWS (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=e17a886efc21fa45b9dc49a17c29dcf192a0b898598ef9416ca40dd3efbbfae1
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",KOMPAS TV (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",KOMPAS TV (USEETV)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=af27b0f197147cee7d7b34b47d6555ac109ac3041ec25ad69ff136c043aa0512
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",KOMPAS TV (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=51ef186e18dc00c2d31982567235c55992a0b898598ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="Indonesia",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
@@ -138,11 +165,14 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=b132ecc1609bfcf302615847c1caa69a92a0b898598ef9416ca40dd3efbbfae1
+
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/JTV_%28Indonesian_TV_channel%29.png" group-title="Indonesia",JTV
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oznMlqHunOdzDHDYDXWU2PJYK34=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" group-title="Indonesia",Ochannel
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f92a0b898598ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="http://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="Indonesia",ELSHINTA TV		
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
@@ -155,6 +185,9 @@ http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="Indonesia",DAAI TV (USEETV)
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=896b0fbfbabb563e7a17b77846bb4c35109ac3041ec25ad69ff136c043aa0512
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="Indonesia",DAAI TV (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=889091ff744069cab08dc605d162a8d392a0b898598ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/DaaiTv.id.png" group-title="Indonesia",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/01.m3u8
@@ -182,6 +215,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional (VIDIO)
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=0b07c4aabfdc28bb8236e195c401e1b292a0b898598ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional
 http://210.210.155.35/qwr9ew/s/s11/01.m3u8
