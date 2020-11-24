@@ -132,8 +132,11 @@ http://210.210.155.35/uq2663/h/h12/01.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE (OXYGEN)
 http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE
+#EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE (GOOGLE)
 http://riyancoday.xyz/coday_play.m3u8?shinta=WwW.RiyanCoday.XYZ&coday=2815529715596fd71b2914908f6ce2fd&cdy=45320691628097f9a32726f12a8092d56350bda99c2c71d65b97e0c7973b30ed
+
+#EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE
+http://rr2.dens.tv/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INEWS [TC][HD]720p
 https://dicdnali.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
