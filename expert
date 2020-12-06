@@ -12,6 +12,9 @@ https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="Indonesia",GTV (VIDIO)
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708ed7d0b008c6972404cfbeadc511a3391a
 
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia",INDOSIAR (OXYGEN)
+httpS://c0day.my.id/shinta_play.m3u8?shinta=SayanG&coday=rwAbBN==&log=qzSkLzM2ozH=
+
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Indonesia",INDOSIAR (USEETV)
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=ffd67d44870fda644560c47682a87a73&cdy=000e4be121ffecc35dac4fbafc901553109ac3041ec25ad69ff136c043aa0512
 
@@ -45,6 +48,9 @@ https://dl.dropbox.com/s/vq7pfqpqhqo9p5n/rctisd.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="Indonesia",RCTI (VIDIO)
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96d7d0b008c6972404cfbeadc511a3391a
 
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV (OXYGEN)
+httpS://c0day.my.id/shinta_play.m3u8?shinta=SayanG&coday=rwAbBN==&log=MaOanD==
+
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV (USEETV)
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=ffd67d44870fda644560c47682a87a73&cdy=70b442faf7651ffb07f62cf81fb677b2109ac3041ec25ad69ff136c043aa0512
 
@@ -63,6 +69,9 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1110356017_b744100_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",TRANS TV [TC][HD]480p
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1110356017_b544100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",TRANS TV (OXYGEN)
+httpS://c0day.my.id/shinta_play.m3u8?shinta=SayanG&coday=rwAbBN==&log=M2IhLJManD==
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",TRANS TV (USEETV)
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=ffd67d44870fda644560c47682a87a73&cdy=3cbcacce0280033198f2da98a2b4e753109ac3041ec25ad69ff136c043aa0512
 
@@ -78,6 +87,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1886258026_b744100_sl
 #EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",TRANS7 [TC][HD]480p
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1886258026_b544100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",TRANS7 (OXYGEN)
+httpS://c0day.my.id/shinta_play.m3u8?shinta=SayanG&coday=rwAbBN==&log=M2IhLJL3
+
 #EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",TRANS7 (USEETV)
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=ffd67d44870fda644560c47682a87a73&cdy=8958551386d9326cfaab8bc165346bfb109ac3041ec25ad69ff136c043aa0512
 
@@ -87,11 +99,17 @@ http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=f846bc691110108f73
 #EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="Indonesia",TRANS7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia" group-title="Indonesia",ANTV (OXYGEN)
+httpS://c0day.my.id/shinta_play.m3u8?shinta=SayanG&coday=rwAbBN==&log=ozSanD==
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia" group-title="Indonesia",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia" group-title="Indonesia",ANTV [LOW SD]
 http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET (OXYGEN)
+httpS://c0day.my.id/shinta_play.m3u8?shinta=SayanG&coday=rwAbBN==&log=LKWaM2x=
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET (USEETV)
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=ffd67d44870fda644560c47682a87a73&cdy=40fa73c9d0083043c6576dd2b40511e4109ac3041ec25ad69ff136c043aa0512
@@ -102,11 +120,17 @@ http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=f846bc691110108f73
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Indonesia",NET
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV (OXYGEN)
+httpS://c0day.my.id/shinta_play.m3u8?shinta=SayanG&coday=rwAbBN==&log=raWaMJWanD==
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV (VIDIO)
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33d7d0b008c6972404cfbeadc511a3391a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="Indonesia",METRO TV
 http://210.210.155.35/uq2663/h/h12/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE (OXYGEN)
+httpS://c0day.my.id/shinta_play.m3u8?shinta=SayanG&coday=rwAbBN==&log=M2yvLKV=
 
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE
 http://rr2.dens.tv/s/s105/01.m3u8
@@ -144,6 +168,9 @@ http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=f846bc691110108f73
 #EXTINF:-1 tvg-logo="http://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="Indonesia",ELSHINTA TV
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/I_F8gqsVfsGp4MuuBO0Lh35QLOk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" group-title="Indonesia",DAAI TV (OXYGEN)
+httpS://c0day.my.id/shinta_play.m3u8?shinta=SayanG&coday=rwAbBN==&log=pJ5hqzqc
+
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/I_F8gqsVfsGp4MuuBO0Lh35QLOk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" group-title="Indonesia",DAAI TV (USEETV)
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=ffd67d44870fda644560c47682a87a73&cdy=896b0fbfbabb563e7a17b77846bb4c35109ac3041ec25ad69ff136c043aa0512
 
@@ -173,6 +200,9 @@ http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=e92c2da5f892a8f324
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Jakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional (OXYGEN)
+httpS://c0day.my.id/shinta_play.m3u8?shinta=SayanG&coday=rwAbBN==&log=M2yyqt==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/300px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Nasional (VIDIO)
 http://c0day.my.id/coday_play.m3u8?shinta=SSIPTV-MALING&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2d7d0b008c6972404cfbeadc511a3391a
