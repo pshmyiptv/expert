@@ -384,9 +384,6 @@ http://210.210.155.35/qwr9ew/s/s42/01.m3u8
 #EXTINF:0,HIT
 http://210.210.155.35/uq2663/h/h37/01.m3u8
 
-#EXTINF:0,Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-
 #EXTINF:0,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
@@ -402,17 +399,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,VOA INDO
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
-#EXTINF:0,,DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-#EXTINF:0,,DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
-
 #EXTINF:0,,CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:0,,CGTN DOCUMENTARY (USEETV)
-http://riyancoday.XyZ/get-link.m3u8?shinta=RiyanCoday.XyZ&cdy=85a7060ea54b0971c1f54b355cf69ad2109ac3041ec25ad69ff136c043aa0512
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=85a7060ea54b0971c1f54b355cf69ad236347412c7d30ae6fde3742bbc4f21b9
 
 #EXTINF:0,CGTN DOCUMENTARY
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
@@ -425,9 +416,6 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 
 #EXTINF:0,FLOW SPORT
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:0,REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:0,REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -489,20 +477,11 @@ https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-id="Arirang TV" logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cinedigm.com/wp-content/uploads/2018/12/hallypop-logo-300x117.png",HallyPOP
-https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
-
 #EXTINF:-1 tvg-id="NHK World Japan" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 tvg-id="NHK World Japan" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png",NHK World Japan
 http://210.210.155.35/uq2663/h/h23/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/11/kctv-korean-central-television.jpg",North Korea TV 
-https://tv.nknews.org/tvhls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.skylife.co.kr/upload/channel/201902/MBC_ON_logo.jpg",MBC On
-http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBS.kr.png",SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
@@ -557,9 +536,6 @@ http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.paxetv.com/image/logo/toplogo_20200122053844.png",한국직업방송
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-obs-w.jpg",OBS W
-http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://menu.mtn.co.kr/images/mtn/common/mtn_logo.gif",머니투데이방송
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
