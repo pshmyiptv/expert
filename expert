@@ -97,6 +97,9 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://210.210.155.35/uq2663/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE
+https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybKhmvUtggkS3i0VanEg6glo)/dm/3/x619221/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo-tvone.png?v=3.2.6" group-title="Indonesia",TV ONE
 http://rr2.dens.tv/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INEWS [TC][HD]720p
