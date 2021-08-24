@@ -226,7 +226,7 @@ http://210.210.155.35/dr9445/h/h10/01.m3u8
 http://210.210.155.35/session/0dedcb96-d1ca-11eb-a1dc-c81f66f89318/uq2663/h/h09/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="SPORT",FIGHT SPORT
-http://210.210.155.35/session/9cab5cdc-d1c9-11eb-8642-c81f66f89318/x6bnqe/h/h05/01.m3u8
+http://210.210.155.35/dr9445/h/h05/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cna-sg.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
