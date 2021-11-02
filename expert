@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA",GTV [TC][HD]720p
 https://livetv01.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA",GTV [TC]540p
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA",GTV [TC]480p
 https://livetv01.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA",GTV (VISION+)
@@ -18,17 +18,17 @@ http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="INDONESIA",MNC [TC][HD]720p
 https://livetv01.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="INDONESIA",MNC [TC]540p
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="INDONESIA",MNC [TC]480p
 https://livetv01.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="INDONESIA",MNC (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI [TC][HD]720p
-https://livetv01.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000_eng=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI [TC]540p
-https://livetv01.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI [TC]480p
+https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_600000=8-mp4a_96000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
@@ -85,10 +85,10 @@ https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-
 http://rr2.dens.tv/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",INEWS [TC][HD]720p
-https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",INEWS [TC][540p
-https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_768000=5-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",INEWS [TC]480p
+https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_600000=7-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",INEWS (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
@@ -99,8 +99,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="INDONESIA",KOMPAS TV
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="INDONESIA",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="INDONESIA",BERITA SATU [TC][HD]720p
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="INDONESIA",BERITA SATU [TC]540p
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13.png" group-title="INDONESIA",BALITV (MAXSTREAM)
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
