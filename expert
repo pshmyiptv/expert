@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA",GTV [TC][HD]720p
-https://d35d0ifx19oopq.cloudfront.ne/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://d35d0ifx19oopq.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA",GTV [TC]480p
-https://d35d0ifx19oopq.cloudfront.ne/live/eds/GTV2021/live_fta/GTV2021-avc1_600000=5-mp4a_96000=2.m3u8
+https://d35d0ifx19oopq.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_600000=5-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA",GTV (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
@@ -16,19 +16,19 @@ https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="INDONESIA",MNC [TC][HD]720p
-https://d35d0ifx19oopq.cloudfront.ne/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+https://d35d0ifx19oopq.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="INDONESIA",MNC [TC]480p
-https://d35d0ifx19oopq.cloudfront.ne/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_600000=5-mp4a_96000=2.m3u8
+https://d35d0ifx19oopq.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_600000=5-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="INDONESIA",MNC (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI [TC][HD]720p
-https://d35d0ifx19oopq.cloudfront.ne/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000_eng=2.m3u8
+https://d35d0ifx19oopq.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI [TC]480p
-https://d35d0ifx19oopq.cloudfront.ne/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_600000=8-mp4a_96000_eng=2.m3u8
+https://d35d0ifx19oopq.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_600000=8-mp4a_96000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
@@ -91,10 +91,10 @@ https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-
 http://rr2.dens.tv/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",INEWS [TC][HD]720p
-https://d35d0ifx19oopq.cloudfront.ne/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+https://d35d0ifx19oopq.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",INEWS [TC]480p
-https://d35d0ifx19oopq.cloudfront.ne/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_600000=7-mp4a_96000=2.m3u8
+https://d35d0ifx19oopq.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_600000=7-mp4a_96000=2.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",INEWS (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
