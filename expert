@@ -85,7 +85,7 @@ https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="INDONESIA",RTV
-http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+http://210.210.155.35/dr9445/h/h10/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="INDONESIA",ELSHINTA TV
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
