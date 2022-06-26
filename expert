@@ -15,6 +15,9 @@ https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_80
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-mnctv.png" group-title="INDONESIA",MNC [TC]480p
 https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_600000=5-mp4a_96000=2.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI MPD
+https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI [TC][HD]720p
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000_eng=2.m3u8
 
