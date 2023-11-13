@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-gtv.png" group-title="INDONESIA",GTV (MPD)
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="INDONESIA",INDOSIAR(DENS)
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="INDONESIA",INDOSIAR
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://raw.githubusercontent.com/pshmyiptv/expert/master/indosiar
 
@@ -22,7 +22,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI (MPD)
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV (DENS)
+#EXTINF:-1 tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://raw.githubusercontent.com/pshmyiptv/expert/master/sctv
 
@@ -50,7 +50,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1886258026_b544100_sl
 #EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="INDONESIA",TRANS7 (MPD)
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png" group-title="INDONESIA",ANTV (DENS)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png" group-title="INDONESIA",ANTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://raw.githubusercontent.com/pshmyiptv/expert/master/antv
 
