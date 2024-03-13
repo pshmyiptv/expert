@@ -470,3 +470,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2 (MPD)
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.1
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=MmpDT3FrQThOS3ltRVJ3bTA5MXdDNFBnMmJaendLckpPd3pVQ3R5MVpiMG5rVWYycGxpeDY3blJUYXJGMC81cg==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.2
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=bndSNW1lNE9BTFkyNkxJcmRiVWdxSHNvV3Q1L2ZuOHc1WEJ5ZHRzNHhXbitFbUFuNno1b0owTzJiSGpBdWM1eA==.m3u8&name=file.m3u8
