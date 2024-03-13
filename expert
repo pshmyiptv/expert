@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -670,3 +671,99 @@ https://gdriveplayer.to/hlsnew2.php?type=720&id=SnZOMW96SEVkbk05ZlBZcWtwL0QzeHJU
 #EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.50
 #EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://gdriveplayer.to/hlsnew2.php?type=720&id=dUZjVHdBbGFJTWw4Y0ttd1NLK0xrMXdkUlhmTHV3TXpHL3IzK0t6dW44empJZUpIY00rRnpqTXZjcGYzbFpHLw==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.51
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=SVlGQjhpQWQ3d0tqTFlVUU4rZTBjN2VDZ3lUdHNLY2t0ZVp6bVZlODUzVUQwV3dqWGtTeVNNR3pQaWZQMHBORA==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.52
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=alFHbWpiRE9UUTNKdnhIb3h6MllpYkhNd1FQMGFEVG9ZNTRZWmllZkRWMWNRblRNWHJEMy9SbHdWVHFkM0ZBKw==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.53
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=RkQvWjJZYUN0Tmo5ODdCMm1sdFNCdG9kQU5BR3hMY1VrL3N5N05RWjc0WTVFWEhXTlJRNVBPOURldDVnY1RUeA==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.54
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=TWFNL1hSRTFhNWpMbFF2Kzdzam1kN25JaFc3MTl5Y28wUW5LcldCQWdPNzNOQXNzek1QRjhOSkJyV2tXTm9oOQ==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.55
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=SDFReDNYNStHV0V5TVNuQVl4bzZkT0MyMm1HMUlLTVRydmlFUzZzZ3RrMUpLYmtUYzdodHdOaVpLUlc0bXJLWg==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.56
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=bkY2cHpLajc1TWJIb1JlT1EvOUFTQ3FKZ3hzT09LMHpvanB1ZDcxM0pjYkJNbjV2Mm5vRTFoalRBS3c1YXRRdA==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.57
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=aTdFL1FGWVRGM1QzVkwxMC83NkVNcVdMUWQvTUZOdEpPTXFqdWU5ZkoyYmFvdHY1UE4rNW1PcVdNd2trQ3doQg==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.58
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=VU5TUU5Wem9OQXA0T0JHVTQvOTVKaXkrQ09HUHB4cTlVTFhVc21WYS9pT0drZERaQ2xJSHo5VmJ0QVpRMzU5Vg==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.59
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=QWxaQTNnRUEvL2QzZ1hIR0IwMVY1M2pjK0VoTDRSRDlTZm5NWURZZzZRRzllU0txcU94dTFJVlBFcHV0SlpYMg==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.60
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=NEhkbUJya3VpYlBkTm8wTEM0UTN1WHFoSTFkUTFGd1REbndEazhjanlocjlNeFBKRTQxaHRndklOQXo3WFZ2MA==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.61
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=SGYzSUpEQ2p3K0UzbWgvTFk1NTZ3b3JLQmhNaEtnUlYvV1RMODkyL0Fla1J5Z01Qd3ZSY2pWN2p0QUFSc3FBWA==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.62
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=WmFPMXFUVW9jNllNRlQvb3RDZXRyUVA0TzZCd2NHWHBSdnJUVW1YQkZkeHFyYUlvNjU5QU9aWUdJKyt3YWNpdA==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.63
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=bHpDTGN6NHRrQ1prRlJQQUszZWZKVkJOVzZsM3VHaEEwcGRXd1FHcVhlRXJ2MjQvR3l2eDRnc1Q4Y0c1bGlXSA==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.64
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=YS9xdUdwUjVVTHR1MVZHa0Q3MEhFdlQyeHJSWXk2RU42SGQ4eTRPTFhPNkFJU3Fjc0FnZWdDRnh1V1FvaHFEZQ==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.65
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=bi8xcURqZ1doU3V1ZnNpck4xdnYwZ3RUUGp0ZWFySm5QdmQwamZ1czVtR0luRitScTRtL0p1aDlkWXdFWlNOQQ==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.66
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=MFBheVh1NkJXWEcyazk0Q2M5QUpwaTVjUEpTdzdLbWw0M1lXSVZXWk9NT1hiRFN2WW1MSkJKUG9jdzd1ekN6cQ==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.67
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=UHFPTHV5UzZZYjgvRnNnK1B3Nzc5V0ViOWNNL0NxeTFHQ1ZIZ29zVGNZcFQ2NjlpYTJjc0VzcTFhYis0SCtQVg==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.68
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=WlIvd0dqZEJleUVpZHJ5R3I5cVd2QTJGd0pDdW9lM2VWbTJNeFgzWHNlRmZMeFBmdVN6aWlrTEhodHRGajAxcA==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.69
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=c09DZXVkK1lTWkpMODcxQ0NUS1NZUTZ0ZTl6d2RqTUJTdG9ab3k5NkZsWHF3SUlabGphUU1NQ1c5dy9rUzA1QQ==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.70
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=cEJsT2d0V0IzZ1pGUXZoT1ZhYjNFV1liRDlKZFlESGVLWkNMSEJuWmRkZnFSeHYrdWJMa3RTMXdLNkFWUUdpNQ==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.71
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=Z3lEYlFUVitLckNWNzE4VFFVTitXY1hGdVpwSEVZUG1qdDd3ZURaN1h1ZnhUZmJrYVptcXpiMEpPVWxHL3JEbA==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.72
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=YXc2N0xrQjJKUVUrVnBIRW9rOTNSVWFIODIrTk8wYk5ub3VEd1p3ZE5nbVlUUytjK0dBR3hiWXpRY2tTN2hXSw==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.73
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=YTNDUUN0aGdxeGlCcTVyVEF3K2xsNE9qZkU3TTNYS2w1Rjh3NWJEcnVZZWZNZFVUQXFzTW1wdm9FajNHQUxlWA==.m3u8&name=file.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.74
+#EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+https://gdriveplayer.to/hlsnew2.php?type=720&id=VTc0SzJ4cStGSzVZMW5qTHZUSTZJVXZucmRUU2tVall2MmFtVW5uMWxEeDQ5RE5YcXZ1UEZ4NCtQOVBqZmZYQg==.m3u8&name=file.m3u8
