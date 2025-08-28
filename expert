@@ -123,6 +123,13 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 #EXTINF:-1 tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="INDONESIA",DHAMMA TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8?id=99827177
 
+#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="Movies",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
@@ -623,5 +630,6 @@ https://gdriveplayer.to/hlsnew2.php?type=720&id=YTNDUUN0aGdxeGlCcTVyVEF3K2xsNE9q
 #EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.74
 #EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://gdriveplayer.to/hlsnew2.php?type=720&id=VTc0SzJ4cStGSzVZMW5qTHZUSTZJVXZucmRUU2tVall2MmFtVW5uMWxEeDQ5RE5YcXZ1UEZ4NCtQOVBqZmZYQg==.m3u8&name=file.m3u8
+
 
 
