@@ -264,7 +264,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1200px-KBS_World_%282009%29.svg.png" group-title="ENTERTAINMENT",KBS World 
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?id=8" group-title="MOVIES",K+
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
@@ -670,6 +670,7 @@ https://gdriveplayer.to/hlsnew2.php?type=720&id=YTNDUUN0aGdxeGlCcTVyVEF3K2xsNE9q
 #EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.74
 #EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://gdriveplayer.to/hlsnew2.php?type=720&id=VTc0SzJ4cStGSzVZMW5qTHZUSTZJVXZucmRUU2tVall2MmFtVW5uMWxEeDQ5RE5YcXZ1UEZ4NCtQOVBqZmZYQg==.m3u8&name=file.m3u8
+
 
 
 
