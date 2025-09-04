@@ -261,6 +261,15 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://iptvsystem.my.id/img/thrill.png" group-title="Movies", Thrill INDI
+https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
+
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://iptvsystem.my.id/img/thrill.png" group-title="Movies", Thrill ᴸᴼᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4f/a7/b6/4fa7b6b77742544c4ed7ad621d8f36d9.jpg" group-title=" MOVIES" tvg-id="CelestialMovies.id" tvg-name="Celestial Movies HD", CELESTIAL MOVIES
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -718,6 +727,7 @@ https://gdriveplayer.to/hlsnew2.php?type=720&id=YTNDUUN0aGdxeGlCcTVyVEF3K2xsNE9q
 #EXTINF:-1 type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Nothing_Gold_Can_Stay_poster.jpg" group-title="Nothing Gold Can Stay",NGCS Ep.74
 #EXTVLCOPT:http-referrer=http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 https://gdriveplayer.to/hlsnew2.php?type=720&id=VTc0SzJ4cStGSzVZMW5qTHZUSTZJVXZucmRUU2tVall2MmFtVW5uMWxEeDQ5RE5YcXZ1UEZ4NCtQOVBqZmZYQg==.m3u8&name=file.m3u8
+
 
 
 
